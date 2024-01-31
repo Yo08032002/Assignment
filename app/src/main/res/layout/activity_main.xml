@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
-    <!-- on below line creating a text view for displaying the heading of our application -->
+
     <TextView
         android:id="@+id/idTVHeading"
         android:layout_width="match_parent"
@@ -19,7 +19,7 @@
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold" />
-    <!-- on below line creating a text view for adding a strike through for our text -->
+
     <StackView
         android:id="@+id/idStackView"
         android:layout_width="match_parent"
