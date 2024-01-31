@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:gravity="center">
 
-    <!-- Creating a CardView to hold the ImageView -->
+
     <androidx.cardview.widget.CardView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -15,7 +15,7 @@
         android:radius="8dp"
         app:cardCornerRadius="28dp">
 
-        <!-- Creating an ImageView for displaying an image -->
+
         <ImageView
             android:id="@+id/image"
             android:layout_width="470dp"
